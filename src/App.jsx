@@ -298,7 +298,7 @@ const PentadicTree = () => {
             <div className="bg-gradient-to-br from-slate-50 to-slate-100 rounded-lg p-5 border border-slate-300">
               <h4 className="font-bold text-slate-900 mb-2 flex items-center gap-2 text-sm">
                 <div className="w-6 h-6 rounded-full bg-slate-200 flex items-center justify-center text-xs">1</div>
-                Initiator
+                Calibrator
               </h4>
               <div className="text-xs font-mono text-slate-700 mb-2">(E, x)</div>
               <p className="text-xs text-slate-600">
